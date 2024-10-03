@@ -1,0 +1,12 @@
+{
+  "name": "user-contact",
+  "version": "1.0.0",
+  "description": "A contact information app with a node server backend",
+  "main": "index.js",
+  "author": "Nial Hope",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
