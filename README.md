@@ -12,7 +12,7 @@ A contact information app with a Node.js server backend.
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/contact-information-app.git
+  git clone https://github.com/yourcontactname/contact-information-app.git
   ```
 2. Navigate to the project directory:
   ```bash
